@@ -9,7 +9,7 @@
 
 <!-- Image -->
 <p align="center">
-  <img src="https://i.imgur.com/u7VnPzH.png" width="300">
+  <img src="https://scontent.fdac34-2.fna.fbcdn.net/v/t39.30808-6/787196497_37960835516894086_7514408654355424083_n.jpg?stp=dst-jpg_tt6&cstp=mx1402x1122&ctp=s1402x1122&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGKVnqEVJ88AQC3EqP9fxls-6yb4oY6_w_7rJvihjr_D3a7ZqnMOh_ho4hTH2Kt2_BaY4vZEJywcVifSJ66ByW5&_nc_ohc=h0-JucwWX80Q7kNvwHogWUD&_nc_oc=AdpuEkay4cC9Q-Q9af1xCKWbKTv7-x2KqKZc4Di-XDdV5PSO11joIUEzj6wcZnpwfeQ&_nc_zt=23&_nc_ht=scontent.fdac34-2.fna&_nc_gid=VqVDPzz8b3_mKHj68o5TGA&_nc_ss=7b2a8&oh=00_AQLMZ9uGnfmahl6qEBsRjCZ9R72MbfPdlD3Lzn8hdnbojQ&oe=6A9F8C7A" width="300">
 </p>
 
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
@@ -23,7 +23,7 @@
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By ARIFA JAHAN NUVA
   </span>
 
 </p>
