@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "AJ NUVA",
   "version": "2.0.1",
   "language": "en",
   "DeveloperMode": false,
@@ -10,15 +10,15 @@
   "EMAIL": "your_email",
   "PASSWORD": "your_password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "─꯭─⃝‌‌Nuva 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
   "PREFIX": "/",
 
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "61586663640809",
-    "100044713412032"
+    "61593125940309",
+    "100001833380449",
+    "100090399003055"
   ],
   "NDH": [
     "100044713412032"
